@@ -1,0 +1,7 @@
+services:
+  frontend:
+    image: idomi27/vue:26
+    volumes:
+      - "./:/app"
+    ports:
+      - 80:5173

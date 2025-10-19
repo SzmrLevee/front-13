@@ -1,0 +1,221 @@
+{
+  "posts": [
+    {
+      "creator": "Ákos",
+      "title": "Őszi hangulat",
+      "date": "2025-09-01",
+      "content": "Reggeli séta a parkban, már érezni az őszt a levegőben! Ti mit szerettek a legjobban az őszi hónapokban?",
+      "id": 1
+    },
+    {
+      "creator": "Bianka",
+      "title": "Új telefon modell",
+      "date": "2025-09-02",
+      "content": "Láttátok az új tech-óriás telefon bemutatóját? Gondolkodom a váltáson, de megéri vajon az árát a frissítés?",
+      "id": 2
+    },
+    {
+      "creator": "Csaba",
+      "title": "Hétvégi programterv",
+      "date": "2025-09-03",
+      "content": "Mit csináltok a hétvégén? Én egy spontán kirándulást tervezek a Börzsönybe, ha az időjárás kedvez!",
+      "id": 3
+    },
+    {
+      "creator": "Peti",
+      "title": "Reggeli futás",
+      "date": "2025-09-04",
+      "content": "A legjobb módja a nap indításának! Frissítő futás a parkban. Ti mit sportoltok reggelente?",
+      "id": 4
+    },
+    {
+      "creator": "Anna",
+      "title": "Új kávézó",
+      "date": "2025-09-05",
+      "content": "Felfedeztünk egy szuper új kávézót a belvárosban. A flat white-juk isteni! Ajánlom mindenkinek!",
+      "id": 5
+    },
+    {
+      "creator": "Gábor",
+      "title": "Tavaszi nagytakarítás",
+      "date": "2025-09-06",
+      "content": "Végre nekiálltam a tavaszi nagytakarításnak! Van valami szuper tippje valakinek a gyors és hatékony rendrakáshoz?",
+      "id": 6
+    },
+    {
+      "creator": "Eszter",
+      "title": "Új könyv",
+      "date": "2025-09-07",
+      "content": "Épp befejeztem egy fantasztikus regényt! Mi a legutóbbi könyv, amit olvastatok és imádtatok?",
+      "id": 7
+    },
+    {
+      "creator": "Dávid",
+      "title": "Hétvégi kiruccanás",
+      "date": "2025-09-08",
+      "content": "Egy spontán hétvégi kiruccanás vidéken. A friss levegő és a nyugalom mindent megért!",
+      "id": 8
+    },
+    {
+      "creator": "Zsófi",
+      "title": "Koncertélmény",
+      "date": "2025-09-09",
+      "content": "Elképesztő volt a tegnapi koncert! Az élő zene energiája verhetetlen. Ki volt még ott?",
+      "id": 9
+    },
+    {
+      "creator": "Máté",
+      "title": "Munka utáni lazítás",
+      "date": "2025-09-10",
+      "content": "Egy hosszú hét után nincs is jobb, mint egy forró fürdő és egy jó sorozat. Ti mivel kapcsolódtok ki?",
+      "id": 10
+    },
+    {
+      "creator": "Virág",
+      "title": "Új recept",
+      "date": "2025-09-11",
+      "content": "Kipróbáltam egy új thai curry receptet, és elképesztően finom lett! Hamarosan megosztom a titkomat!",
+      "id": 11
+    },
+    {
+      "creator": "Tamás",
+      "title": "Technológiai újdonság",
+      "date": "2025-09-12",
+      "content": "Olvasom, hogy egy új AI modell képes már valósághű videókat generálni. Hova tart a világ?",
+      "id": 12
+    },
+    {
+      "creator": "Réka",
+      "title": "Kertészkedés",
+      "date": "2025-09-13",
+      "content": "Kezdődik a szezon! Ültettem pár fűszernövényt az erkélyre. Remélem, túlélik! Van valakinek tippje kezdőknek?",
+      "id": 13
+    },
+    {
+      "creator": "Viktor",
+      "title": "Időjárás változás",
+      "date": "2025-09-14",
+      "content": "Hihetetlen ez az időjárás! Reggel még fagyott, délután már a nap süt. Két nap alatt négy évszak.",
+      "id": 14
+    },
+    {
+      "creator": "Orsolya",
+      "title": "Közösségi program",
+      "date": "2025-09-15",
+      "content": "Szervezünk egy társasjáték estet jövő héten! Ha valakinek van kedve csatlakozni, jelezze!",
+      "id": 15
+    },
+    {
+      "creator": "Bálint",
+      "title": "Sport esemény",
+      "date": "2025-09-16",
+      "content": "Néztük a Forma-1-es futamot! Izgalmas volt az utolsó kör. Hajrá Ferrari!",
+      "id": 16
+    },
+    {
+      "creator": "Emese",
+      "title": "Háziállat kaland",
+      "date": "2025-09-17",
+      "content": "A kutyám ma reggel elkapott egy madarat, amit utána persze szabadon engedett. Tele van energiával!",
+      "id": 17
+    },
+    {
+      "creator": "Norbert",
+      "title": "Utazási tervek",
+      "date": "2025-09-18",
+      "content": "Elkezdtem tervezni a nyári nyaralást. Valaki járt már Görögországban? Melyik szigetet ajánlanátok?",
+      "id": 18
+    },
+    {
+      "creator": "Kinga",
+      "title": "Film este",
+      "date": "2025-09-19",
+      "content": "Megnéztem az új sci-fi filmet a moziban. Elképesztő volt a látvány! Ki látta már? Melyik a kedvenc sci-fi filmetek?",
+      "id": 19
+    },
+    {
+      "creator": "Ádám",
+      "title": "Zenei felfedezés",
+      "date": "2025-09-20",
+      "content": "Rátaláltam egy új indie bandára. A zenéjük egyszerűen zseniális! Muszáj meghallgatnotok!",
+      "id": 20
+    },
+    {
+      "creator": "Fanni",
+      "title": "Reggeli kávé",
+      "date": "2025-09-21",
+      "content": "A tökéletes reggeli kávé a teraszon. Nincs is jobb, mint így indítani a hetet!",
+      "id": 21
+    },
+    {
+      "creator": "Krisztián",
+      "title": "Új telefon",
+      "date": "2025-09-22",
+      "content": "Megvettem az új telefont! A kamerája elképesztő, már alig várom, hogy kipróbáljam minden funkcióját.",
+      "id": 22
+    },
+    {
+      "creator": "Dorina",
+      "title": "Kulináris élvezet",
+      "date": "2025-09-23",
+      "content": "Ebédeltem egy eldugott kis olasz étteremben. A tészta isteni volt, pont mint Rómában!",
+      "id": 23
+    },
+    {
+      "creator": "Zoltán",
+      "title": "Retro játék",
+      "date": "2025-09-24",
+      "content": "Elővettem a régi Nintendo 64-emet. Nosztalgia roham a javából! Emlékeztek még a Super Mario 64-re?",
+      "id": 24
+    },
+    {
+      "creator": "Kata",
+      "title": "Esti séta",
+      "date": "2025-09-25",
+      "content": "Egy kellemes esti séta a városban. A kivilágított hidak mindig lenyűgöznek.",
+      "id": 25
+    },
+    {
+      "creator": "Bence",
+      "title": "Autó karbantartás",
+      "date": "2025-09-26",
+      "content": "Elvittem az autót szervizbe. Remélem, nem lesz túl drága! Valaki tud megbízható szerelőt ajánlani?",
+      "id": 26
+    },
+    {
+      "creator": "Noémi",
+      "title": "Új frizura",
+      "date": "2025-09-27",
+      "content": "Új frizura! Végre rászántam magam egy kis változtatásra.",
+      "id": 27
+    },
+    {
+      "creator": "Ferenc",
+      "title": "Történelmi évforduló",
+      "date": "2025-09-28",
+      "content": "Ma egy fontos történelmi esemény évfordulóját ünnepeljük. Lényeges emlékezni a múltra, hogy építhessük a jövőt!",
+      "id": 28
+    },
+    {
+      "creator": "Nikolett",
+      "title": "Környezetvédelem",
+      "date": "2025-09-29",
+      "content": "Ma részt vettem egy önkéntes szemétszedésen a folyóparton. Fontos, hogy vigyázzunk a környezetünkre!",
+      "id": 29
+    },
+    {
+      "creator": "Gábor",
+      "title": "Szülinapi buli",
+      "date": "2025-09-30",
+      "content": "Fantasztikus szülinapi bulim volt tegnap! Köszönöm mindenkinek, aki eljött és velem ünnepelt!",
+      "id": 30
+    },
+    {
+      "creator": "asd",
+      "title": "asd",
+      "date": "2025. 09. 09.",
+      "content": "asd",
+      "id": 31
+    }
+  ]
+}
