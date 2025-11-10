@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "text": "asd",
+      "done": false,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "Teszt",
+    "email": "teszt@example.com",
+    "bio": "asdasd"
+  }
+}

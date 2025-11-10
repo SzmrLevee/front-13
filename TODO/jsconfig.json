@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@assets/*": ["./frontend/src/assets/*"],
+      "@utils/*": ["./frontend/src/utils/*"],
+      "@views/*": ["./frontend/src/views/*"]
+    }
+  }
+}
