@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Az önző gén",
+      "author": "Richard Dawkins",
+      "year": 1976,
+      "genre": "Tudományos"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Disztópia"
+    },
+    {
+      "id": 3,
+      "title": "A hatalom gyűrűi",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "genre": "Fantasy"
+    }
+  ]
+}

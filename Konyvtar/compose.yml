@@ -1,0 +1,32 @@
+networks: 
+  fullstack: ~
+services:
+  proxy:
+    image: nginx:1.29.0-alpine3.22
+    volumes:
+      - ./proxy/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./proxy/conf.d:/etc/nginx/conf.d:ro
+    ports:
+      - 80:80
+    depends_on:
+      frontend:
+        condition: service_started
+      jsonserver:
+        condition: service_started
+    networks:
+      - fullstack
+  jsonserver:
+    image: idomi27/jsonserver:26
+    build: ./json-server
+    volumes:
+      - ./json-server:/app
+      - /app/node_modules
+    networks:
+      - fullstack
+  frontend:
+    image: idomi27/vite:26
+    build: ./frontend
+    volumes:
+      - ./frontend:/app
+    networks:
+      - fullstack
